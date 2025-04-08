@@ -1,1 +1,1 @@
-# Bibliotecas utilizadas na compilação do código existente no diretório ``Firmware''
+# Bibliotecas utilizadas na compilação do código existente no diretório "Firmware"
